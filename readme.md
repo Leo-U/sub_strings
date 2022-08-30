@@ -1,0 +1,1 @@
+I noticed that this lesson here: https://www.theodinproject.com/lessons/ruby-basic-enumerable-methods#the-reduce-method included a code example that takes in an array and outputs a hash, which is basically what this project requires. So I basically just modifed that code example and came up with this fairly easily.
